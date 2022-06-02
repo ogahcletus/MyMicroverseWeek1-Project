@@ -1,48 +1,22 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
+> In this project, I am required to set up a "Hello Microverse" repository. No complex coding is required for this exercise. The goal here is to master all of the tools and best practices I learned about in previous steps. I am will be using them in all Microverse projects and most likely in my future job as well, so it is important to know them!
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- html/css
+- linters
 
 
 
-## Authors
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+👤 **Cletus Okibe Ogah**
+
+- GitHub: [@githubhandle](https://github.com/ogahcletus)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
